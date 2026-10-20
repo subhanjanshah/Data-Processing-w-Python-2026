@@ -1,0 +1,9 @@
+statistic,total_nights
+count,995.0
+mean,3.47
+std,2.37
+min,1.0
+25%,2.0
+50%,3.0
+75%,4.0
+max,28.0
